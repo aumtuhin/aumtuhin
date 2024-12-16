@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm a Frontend focused Fullstack Javascript, Typescript Engineer
+I'm a Fullstack Javascript, Typescript Engineer
